@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KinhOni
+- 👋 Hi, I’m habeeb
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# with unity 
+- 🌱 I’m currently learning C++ with unreal engine
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me, my email is abiodunhabeeb19@yahoo.com
 
